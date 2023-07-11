@@ -112,3 +112,20 @@ form {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
     margin-bottom: 20px;
   }
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+  .checkbox-container input[type="checkbox"]{
+    margin-bottom: 23px;
+    float: left;
+    margin-right: 10px;
+    clear: left;
+    transform: scale(1.5);
+  }
+  .checkbox-container label {
+    margin-bottom: 20px;
+    float: left;
+    margin-right: 10px;
+    clear: left;
+  }

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário de captura de dados</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header></header>
@@ -21,28 +22,38 @@
         <label for="idade"><strong>Idade: </strong></label>
         <input type="text" name="idade" id="idade" required placeholder="Digite sua idade"><br><br>
 
-        <label for="email"><strong>E-mail: </strong></label>
-        <input type="text" name="email" id="email" required placeholder="Digite seu e-mail"><br><br>
+        <label for="pais"><strong>País: </strong></label>
+        <input type="text" name="pais" id="pais" required placeholder="Digite o País onde você mora"><br><br>
 
         <label for="estado"><strong>Estado: </strong></label>
         <input type="text" name="estado" id="estado" required placeholder="Digite seu estado"><br><br>
+
+        <label for="email"><strong>E-mail: </strong></label>
+        <input type="text" name="email" id="email" required placeholder="Digite seu e-mail"><br><br>
+
+        <label for="celular"><strong>Celular: </strong></label>
+        <input type="text" name="celular" id="celular" required placeholder="Digite seu número de celular com DDD"><br><br>
+    
+        <div class="checkbox-container">
+            <input type="checkbox" id="whats" name="whats">
+            <label for="whats">Este número possui WhatsApp</label>
+        </div>
 
         <input type="submit" id="botaoSalvar" value="Salvar">
     </form>
 
     <script>
-        document.getElementById('MeuForm').addEventListener('submit', function(event) {
-            event.preventDefault(); //impede o formulário de dar reload
+            document.getElementById('MeuForm').addEventListener('submit', function(event) {
+            /*event.preventDefault(); // impede o formulário de dar reload */
             var botaoSalvar = document.getElementById('botaoSalvar');
             botaoSalvar.value = 'Salvando...';
             botaoSalvar.disabled = true; //desabilita o botão
-
             var formdata = new FormData(this);
 
             var novoajax = new XMLHttpRequest(); //cria o ajax
             novoajax.open('POST', 'salvardados.php', true);
             novoajax.onload = function() {
-                if (novoajax.status >= 200 && novoajax.status < 500) {
+                if (novoajax.status >= 200 && novoajax.status <= 500) {
                     botaoSalvar.value = 'Salvo!';
                 } else {
                     botaoSalvar.value = 'Erro!';
@@ -52,5 +63,6 @@
             novoajax.send(formdata);
         });
     </script>
+    
 </body>
 </html>
