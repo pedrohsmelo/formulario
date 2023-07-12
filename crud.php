@@ -1,6 +1,5 @@
 <?php
-/* Comando para criar a tabela necessária, basta executar no mysql
-
+/*
 $sql_create_table = "CREATE TABLE IF NOT EXISTS tabela_cadastro (
             id INT AUTO_INCREMENT PRIMARY KEY,
             nome VARCHAR(50),
@@ -18,5 +17,5 @@ $sql_create_table = "CREATE TABLE IF NOT EXISTS tabela_cadastro (
             echo "Erro ao criar a tabela: " . $conexao->error;
         }
  */
-        $sql = "INSERT INTO tabela_cadastro (nome, sobrenome, idade, email, celular, pais, estado, whats) VALUES ('$nome', '$sobrenome', '$idade', '$email', '$celular', '$pais', '$estado', '$whats')";
+        //$sql = "INSERT INTO tabela_cadastro (nome, sobrenome, idade, email, celular, pais, estado, whats) VALUES ('$nome', '$sobrenome', '$idade', '$email', '$celular', '$pais', '$estado', '$whats')";
 ?>
