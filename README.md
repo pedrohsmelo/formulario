@@ -1,10 +1,10 @@
 # Formulário de captura de dados<br><br>
 
 Nível de dificuldade do projeto: <br>
-▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/><br/><br/><br/>
+▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/><br/>
 
 
->Projeto em Desenvolvimento ⚠️<br><br><br/><br/>
+>Projeto em Desenvolvimento ⚠️<br><br>
 
 
 
