@@ -3,8 +3,8 @@ session_start();
 
 $servername = "localhost";
 $username = "admin";
-$password = "123qwe!@#QWE";
-$dbname = "banco_formulario";
+$password = "sua senha";
+$dbname = "nomedoseubanco";
 
 $conexao = new mysqli($servername, $username, $password, $dbname);
 
