@@ -1,6 +1,6 @@
 # Formulário de captura de dados<br><br>
 
-Nível de dificuldade do projeto:
+Nível de dificuldade do projeto: <br>
 ▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/><br/>
 ---
 
