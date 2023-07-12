@@ -1,4 +1,4 @@
-#Nível de dificuldade do projeto ▰▰▰▱▱▱▱▱▱▱ (Iniciante)
+# Nível de dificuldade do projeto ▰▰▰▱▱▱▱▱▱▱ (Iniciante)
 
 # Formulário de captura de dados<br><br>
 
