@@ -1,11 +1,7 @@
 # Formulário de captura de dados<br><br>
 
 Nível de dificuldade do projeto: <br>
-▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/><br/>
-
-
->Projeto em Desenvolvimento ⚠️<br><br><br>
-
+▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/><br/><br><br><br><br><br>
 
 
 <p>Este projeto é um formulário básico de captura de dados, onde o usuário preenche o formulário com os seus dados e em seguida esses dados são enviados para um banco de dados MySql onde podem ser usados tanto para campanhas de e-mail marketing como para realizar qualquer tipo de análise.</p>
