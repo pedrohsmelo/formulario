@@ -1,5 +1,5 @@
-# Nível de dificuldade do projeto: 
-## ▰▰▰▱▱▱▱▱▱▱ (Iniciante)
+# Nível de dificuldade do projeto: <br/><br/>
+## ▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/>
 
 # Formulário de captura de dados<br><br>
 
