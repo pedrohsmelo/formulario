@@ -14,7 +14,6 @@ Nível de dificuldade na instalação do projeto: <br>
 - [Tecnologias utilizadas](#tecnologiasusadas)
 - [Como contribuir com o projeto?](#comocontribuir)
 - [Quem desenvolveu esse projeto?](#desenvolvedor)
-- 
 
 
 ## Sobre
