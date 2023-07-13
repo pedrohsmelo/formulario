@@ -16,16 +16,18 @@ Nível de dificuldade na instalação do projeto: <br>
 - [Quem desenvolveu esse projeto?](#desenvolvedor)
 - 
 
+
 ## Sobre
-<p>O projeto é um formulário que captura os dados do usuário e adiciona a um banco de dados MySql .</p></br>
+<p>O projeto é um formulário que captura os dados do usuário e adiciona a um banco de dados MySql. Esse processo é feito utilizando de vários recursos de segurança para evitar ataques como "SQL Injection". </p></br>
+<p>Este formulário pode ser usado de base para qualquer outro projeto, basta alterar o arquivo style.css e conecta-lo as outras páginas do seu site/sistema.</p>
 
 ## <a id="oquevoceprecisa"></a>O que você precisa ter em mãos?
+- Hospedagem ou servidor próprio
 - Banco de dados criado na sua hospedagem ou servidor
 - Usuário criado e adicionado com todos os privilégios ao banco a cima 👆
 - Senha de acesso deste usuário ao banco de dados
-<p></p>
 
-## Instrução de instalação:
+## Funcionalidades
 
 ### Você vai precisar dos seguintes itens em mãos:
 
