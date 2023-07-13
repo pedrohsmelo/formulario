@@ -4,7 +4,7 @@ Nível de dificuldade na leitura e execução do projeto: <br>
 ▰▰▰▱▱▱▱▱▱▱ (Iniciante)<br/>
 
 Nível de dificuldade na instalação do projeto: <br>
-▰▰▱▱▱▱▱▱▱▱ (Fácil)<br/><br/><br><br><br>
+▰▰▱▱▱▱▱▱▱▱ (Fácil)<br/><br/><br>
 # Índice
 - [Sobre o projeto](#sobre)
 - [O que você precisa ter em mãos?](#oquevoceprecisa)
