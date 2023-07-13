@@ -27,10 +27,18 @@ Nível de dificuldade na instalação do projeto: <br>
 - Usuário criado e adicionado com todos os privilégios ao banco a cima 👆
 - Senha de acesso deste usuário ao banco de dados
 
-## Funcionalidades
-
 ### Você vai precisar dos seguintes itens em mãos:
 
 - Banco de dados criado na sua hospedagem ou servidor
 - Usuário criado e adicionado com todos os privilégios ao banco a cima 👆
 - Senha de acesso deste usuário ao banco de dados
+
+## Funcionalidades
+- Capturar os dados do usuário;
+- Adicionar os dados as variáveis do PHP;
+- Sanitiza os dados e verifica a duplicidade;
+- Prepara os dados usando "prepared statements" para evitar que os dados sejam interpretados como comandos SQL;
+- Adiciona os dados a um banco de dados;
+- Emite um alerta de sucesso/erro ao salvar os dados.
+
+## Layout do projeto
