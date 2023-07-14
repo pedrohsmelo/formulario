@@ -26,7 +26,7 @@ Nível de dificuldade na instalação do projeto: <br>
 - Usuário criado e adicionado com todos os privilégios ao banco a cima 👆
 - Senha de acesso deste usuário ao banco de dados
 
-## ✅ Funcionalidades
+## ✅ <a id="funcionalidades"></a>Funcionalidades
 - Captura os dados do usuário;
 - Adiciona os dados as variáveis do PHP;
 - Sanitiza os dados e verifica a duplicidade;
@@ -34,10 +34,10 @@ Nível de dificuldade na instalação do projeto: <br>
 - Adiciona os dados a um banco de dados;
 - Emite um alerta de sucesso/erro ao salvar os dados.
 
-## 🖥️ Layout do projeto</br></br>
+## 🖥️ <a id="layout-do-projeto"></a> Layout do projeto </br></br>
 ![Layout do projeto](layout.png)</br></br></br></br></br></br>
 
-## 💻 Como rodar o projeto?
+## 💻 <a id="como-rodar-o-projeto"></a>Como rodar o projeto?
 #### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem ou em um servidor próprio.
 #### *Se você desejar instalar em um servidor próprio, o processo é análogo ao processo de instalar na hospedagem, porém o link de acesso ao formulário é o IP do seu servidor ou localhost.
 - Baixe a pasta root.zip do projeto e extraia no seu computador;
