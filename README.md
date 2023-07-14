@@ -27,8 +27,8 @@ Nível de dificuldade na instalação do projeto: <br>
 - Senha de acesso deste usuário ao banco de dados
 
 ## Funcionalidades
-- Capturar os dados do usuário;
-- Adicionar os dados as variáveis do PHP;
+- Captura os dados do usuário;
+- Adiciona os dados as variáveis do PHP;
 - Sanitiza os dados e verifica a duplicidade;
 - Prepara os dados usando "prepared statements" para evitar que os dados sejam interpretados como comandos SQL;
 - Adiciona os dados a um banco de dados;
@@ -46,4 +46,6 @@ Nível de dificuldade na instalação do projeto: <br>
 
 - Após executar o comando no seu console SQL, será criada a tabela necessária para a grupar os dados recebidos e o seu banco de dados deve estar se parecendo com isso:
 
-![resultado crud](resultadocrud.jpg)
+![resultado crud](resultadocrud.jpg)</br>
+
+- Agora você precisa abrir o arquivo "conexaodb.php" com algum editor de texto e alterar os dados de conexão com o banco de dados.
