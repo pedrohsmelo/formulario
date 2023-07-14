@@ -50,11 +50,22 @@ Nível de dificuldade na instalação do projeto: <br>
 ![resultado crud](resultadocrud.jpg)</br>
 
 - Agora você precisa abrir o arquivo "conexaodb.php" com algum editor de texto e alterar os dados de conexão com o banco de dados;
-- O arquivo "conexaodb.php" deve se parecer com o print a baixo. Você deve editar os campos "username", "password" e "dbname" e nesses campos você precisa adicionar os dados de acesso e nome do seu banco de dados onde deseja salvar os dados capturados pelo formulário.</br></br>
+- O arquivo "conexaodb.php" deve se parecer com o print a baixo. Você deve editar os campos "username", "password" e "dbname" e nesses campos você precisa adicionar os dados de acesso e nome do seu banco de dados onde deseja salvar os dados capturados pelo formulário;</br></br>
   **Essas informações de acesso você deve possuir desde o começo da instalação.
   
 <img src="conexaodb.jpg" width="800" height="450" alt="conexaodb"></br>
 
-- Após adicionar os dados do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pata raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto.
-- Nesse ponto seu o formulário já está abrindo na sua hospedagem quando acessado pelo seu domínio/subdominio;
-- 
+- Após adicionar os dados do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pata raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto;
+- Pronto! Agora seu o formulário já está abrindo na sua hospedagem/servidor quando acessado pelo seu domínio/subdominio/IP.</br></br></br>
+
+## 🔑 <a id="tecnologiasusadas"></a>Tecnologias utilizadas
+- HTML 5 
+- CSS 3 
+- PHP (Min. v5.6) 
+- MySql
+- JavaScript
+
+
+                                                                                                                      
+
+
