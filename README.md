@@ -9,7 +9,7 @@ Nível de dificuldade na instalação do projeto: <br>
 - [Sobre o projeto](#sobre)
 - [O que você precisa ter em mãos?](#oquevoceprecisa)
 - [Funcionalidades](#funcionalidades)
-- [Layout do projeto](#layout)
+- [Layout do projeto](#layout-do-projeto)
 - [Como rodar o projeto?](#comorodar)
 - [Tecnologias utilizadas](#tecnologiasusadas)
 - [Como contribuir com o projeto?](#comocontribuir)
