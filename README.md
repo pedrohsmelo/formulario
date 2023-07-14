@@ -35,8 +35,11 @@ Nível de dificuldade na instalação do projeto: <br>
 - Emite um alerta de sucesso/erro ao salvar os dados.
 
 ## Layout do projeto</br></br>
-![Descrição da imagem](layout.png)
+![Layout do projeto](layout.png)
 
 ## Como rodar o projeto?
 ### **O passo a passo a seguir serve para instalar o projeto em uma hospedagem
-- Baixe o projeto inteiro;
+- Baixe a pasta root do projeto.
+- Dentro da pasta root existe um arquivo chamado "crud.txt", pode abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar e executar no seu terminal SQL, como no print a baixo:
+![Crud](cruddb.jpg)
+- 
