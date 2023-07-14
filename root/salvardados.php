@@ -10,6 +10,16 @@
         
         require_once 'conexaodb.php';
 
+        function validarEntrada($entrada)
+        {
+         //função para aplicar a validação e sanitização dos dados
+            $entrada = trim($entrada); 
+            $entrada = stripslashes($entrada); 
+            $entrada = htmlspecialchars($entrada);
+
+         return $entrada;
+        }
+
         // Verificação de duplicação
         $statement = $conexao->prepare("SELECT COUNT(*) FROM tabela_cadastro WHERE nome = ? AND sobrenome = ? AND email = ?");
         $statement->bind_param("sss", $nome, $sobrenome, $email);
