@@ -39,8 +39,8 @@ Nível de dificuldade na instalação do projeto: <br>
 
 ## Como rodar o projeto?
 ### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem
-- Baixe a pasta root do projeto;
-- Dentro da pasta root existe um arquivo chamado "creattable.txt", você deve abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar ele no seu console SQL, após isso basta executar o comando, como no print a baixo:</br>
+- Baixe a pasta root.zip do projeto e extraia no seu computador;
+- Dentro da pasta root existe um arquivo chamado "crud.txt", você deve abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar ele no seu console SQL, após isso basta executar o comando, como no print a baixo:</br>
 
 ![Crud](cruddb.jpg)
 
