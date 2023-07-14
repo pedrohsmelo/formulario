@@ -34,7 +34,7 @@ Nível de dificuldade na instalação do projeto: <br>
 - Adiciona os dados a um banco de dados;
 - Emite um alerta de sucesso/erro ao salvar os dados.
 
-## Layout do projeto </br></br>
+## Layout do projeto</br></br>
 ![Descrição da imagem](layout.png)
 
 ## Como rodar o projeto?
