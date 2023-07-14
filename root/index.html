@@ -53,7 +53,7 @@
             var novoajax = new XMLHttpRequest(); // cria o ajax
             novoajax.open('POST', 'salvardados.php', true);
             novoajax.onload = function() {
-                if (novoajax.status >= 200 && novoajax.status <= 500) {
+                if (novoajax.status >= 200 && novoajax.status <= 400) {
                     botaoSalvar.value = 'Salvo!';
                     alert('Dados salvos com sucesso!');
                 } else {
