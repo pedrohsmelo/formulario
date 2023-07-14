@@ -38,3 +38,5 @@ Nível de dificuldade na instalação do projeto: <br>
 ![Descrição da imagem](layout.png)
 
 ## Como rodar o projeto?
+### **O passo a passo a seguir serve para instalar o projeto em uma hospedagem
+- Baixe o projeto inteiro;
