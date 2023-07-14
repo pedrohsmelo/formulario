@@ -13,8 +13,6 @@ if ($conexao->connect_error) {
     die("Falha na conexão " . $conexao->connect_error);
 }
 
-require_once 'crud.php';
-
 function validarEntrada($entrada)
 {
     //função para aplicar a validação e sanitização dos dados
