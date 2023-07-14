@@ -10,7 +10,7 @@ Nível de dificuldade na instalação do projeto: <br>
 - [O que você precisa ter em mãos?](#oquevoceprecisa)
 - [Funcionalidades](#funcionalidades)
 - [Layout do projeto](#layout-do-projeto)
-- [Como rodar o projeto?](#comorodar)
+- [Como rodar o projeto?](#como-rodar-o-projeto)
 - [Tecnologias utilizadas](#tecnologiasusadas)
 - [Como contribuir com o projeto?](#comocontribuir)
 - [Quem desenvolveu esse projeto?](#desenvolvedor)
@@ -38,8 +38,12 @@ Nível de dificuldade na instalação do projeto: <br>
 ![Layout do projeto](layout.png)
 
 ## Como rodar o projeto?
-### **O passo a passo a seguir serve para instalar o projeto em uma hospedagem
+### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem
 - Baixe a pasta root do projeto.
-- Dentro da pasta root existe um arquivo chamado "crud.txt", pode abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar e executar no seu terminal SQL, como no print a baixo:
+- Dentro da pasta root existe um arquivo chamado "creattable.txt", você deve abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar ele no seu console SQL, após isso basta executar o comando, como no print a baixo:</br>
+
 ![Crud](cruddb.jpg)
-- 
+
+- Após executar o comando no seu console SQL, será criada a tabela necessária para a grupar os dados recebidos e o seu banco de dados deve estar se parecendo com isso:
+
+![resultado crud](resultadocrud.jpg)
