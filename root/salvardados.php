@@ -8,6 +8,7 @@
         $pais = $_POST['pais'];
         $whats = isset($_POST['whats']) ? 1 : 0;
         
+        require_once 'conexaodb.php'; 
 
         function validarEntrada($entrada)
         {
