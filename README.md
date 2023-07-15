@@ -55,8 +55,11 @@ Nível de dificuldade na instalação do projeto: <br>
   
 <img src="conexaodb.jpg" width="800" height="450" alt="conexaodb"></br>
 
-- Após adicionar os dados do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pata raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto;
-- Pronto! Agora seu o formulário já está abrindo na sua hospedagem/servidor quando acessado pelo seu domínio/subdominio/IP.</br></br></br>
+- Após adicionar os dados de acesso do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pata raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto:</br>
+ 
+ ![arquivos na hospedagem](arquivosnahospedagem.jpg)</br>
+ 
+- Pronto! Agora seu o formulário já está abrindo e funcionando na sua hospedagem/servidor quando acessado pelo seu domínio/subdominio/IP.</br></br></br>
 
 ## 🔑 <a id="tecnologiasusadas"></a>Tecnologias utilizadas
 - HTML 5 
