@@ -21,7 +21,7 @@ Nível de dificuldade na instalação do projeto: <br>
 <p>Este formulário pode ser usado de base para qualquer outro projeto, basta alterar o arquivo style.css e conecta-lo as outras páginas do seu site/sistema.</p>
 
 ## ✍️ <a id="oquevoceprecisa"></a>O que você precisa ter em mãos?
-- Hospedagem ou servidor próprio
+- Hospedagem ou servidor próprio (Não necessita acesso root)
 - Banco de dados criado na sua hospedagem ou servidor
 - Usuário criado e adicionado com todos os privilégios ao banco a cima 👆
 - Senha de acesso deste usuário ao banco de dados
