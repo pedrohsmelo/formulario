@@ -55,7 +55,7 @@ Nível de dificuldade na instalação do projeto: <br>
   
 <img src="conexaodb.jpg" width="800" height="450" alt="conexaodb"></br>
 
-- Após adicionar os dados de acesso do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pata raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto:</br>
+- Após adicionar os dados de acesso do seu banco de dados ao arquivo "conexaodb.php", você deve acessar a pasta raiz da sua hospedagem/servidor e lá adicionar todos os arquivos da pasta root do projeto:</br>
  
  ![arquivos na hospedagem](arquivosnahospedagem.jpg)</br>
  
