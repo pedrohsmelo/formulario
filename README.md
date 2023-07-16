@@ -13,7 +13,6 @@ Nível de dificuldade na instalação do projeto: <br>
 - [Como rodar o projeto?](#como-rodar-o-projeto)
 - [Tecnologias utilizadas](#tecnologiasusadas)
 - [Como contribuir com o projeto?](#comocontribuir)
-- [Quem desenvolveu esse projeto?](#desenvolvedor)
 
 
 ## Sobre
@@ -68,7 +67,6 @@ Nível de dificuldade na instalação do projeto: <br>
 - MySql
 - JavaScript
 
-
-                                                                                                                      
-
+## 🔗 <a id="comocontribuir"></a>Como contribuir com esse projeto?
+<p>Para contribuir com esse projeto, você deve enviar todos os pushs para a branch "contribution".</p>
 
