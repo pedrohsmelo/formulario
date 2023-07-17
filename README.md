@@ -34,7 +34,7 @@ Nível de dificuldade na instalação do projeto: <br>
 - Emite um alerta de sucesso/erro ao salvar os dados.
 
 ## 🖥️ <a id="layout-do-projeto"></a> Layout do projeto </br></br>
-![Layout do projeto](layout.png)</br></br></br></br></br></br>
+![Layout do projeto](readme-imagens/layout.png)</br></br></br></br></br></br>
 
 ## 💻 <a id="como-rodar-o-projeto"></a>Como rodar o projeto?
 #### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem ou em um servidor próprio.
