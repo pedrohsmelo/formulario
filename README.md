@@ -37,7 +37,7 @@ Nível de dificuldade na instalação do projeto: <br>
 ![Layout do projeto](readme-images/layout.png)</br></br></br></br></br></br>
 
 ## 💻 <a id="como-rodar-o-projeto"></a>Como rodar o projeto?
-#### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem ou em um servidor próprio.
+#### *O passo a passo a seguir serve para instalar o projeto em uma hospedagem ou em um servidor próprio. (Não necessita acesso root)
 #### *Se você desejar instalar em um servidor próprio, o processo é análogo ao processo de instalar na hospedagem, porém o link de acesso ao formulário é o IP do seu servidor ou localhost.
 - Baixe a pasta root.zip do projeto e extraia no seu computador;
 - Dentro da pasta root existe um arquivo chamado "crud.txt", você deve abrir esse arquivo, copiar o conteúdo do comando SQL que há nele e colar ele no seu console SQL, após isso basta executar o comando, como no print a baixo:</br>
