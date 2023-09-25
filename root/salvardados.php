@@ -12,7 +12,7 @@
 
         function validarEntrada($entrada)
         {
-         //função para aplicar a validação e sanitização dos dados
+
             $entrada = trim($entrada); 
             $entrada = stripslashes($entrada); 
             $entrada = htmlspecialchars($entrada);
@@ -20,7 +20,6 @@
          return $entrada;
         }
 
-        // Verificação de duplicação
         $statement = $conexao->prepare("SELECT COUNT(*) FROM tabela_cadastro WHERE nome = ? AND sobrenome = ? AND email = ?");
         $statement->bind_param("sss", $nome, $sobrenome, $email);
         $statement->execute();
@@ -28,7 +27,6 @@
         $statement->fetch();
         $statement->close();
         
-        //validação e sanitização dos dados 
         $nome = validarEntrada($nome);
         $sobrenome = validarEntrada($sobrenome);
         $idade = validarEntrada($idade);
@@ -38,7 +36,6 @@
         $pais = validarEntrada($pais);  
 
 
-        //
         if ($count > 0) {
                 $_SESSION['mensagem'] = 'Dados já existem no banco de dados!';
             } else {
