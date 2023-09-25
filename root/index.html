@@ -44,13 +44,12 @@
 
     <script>
         document.getElementById('MeuForm').addEventListener('submit', function(event) {
-            /*event.preventDefault(); // impede o formulário de dar reload*/
             var botaoSalvar = document.getElementById('botaoSalvar');
             botaoSalvar.value = 'Salvando...';
             botaoSalvar.disabled = true;
             var formdata = new FormData(this);
     
-            var novoajax = new XMLHttpRequest(); // cria o ajax
+            var novoajax = new XMLHttpRequest(); 
             novoajax.open('POST', 'salvardados.php', true);
             novoajax.onload = function() {
                 if (novoajax.status >= 200 && novoajax.status <= 400) {
