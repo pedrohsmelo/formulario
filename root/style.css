@@ -62,7 +62,6 @@ form {
     padding: 10px;
     background-color: #02c6f7;
     border: none;
-    border-radius: 3px;
     color: #fff;
     cursor: pointer;
     border-radius: 10px;
@@ -70,7 +69,7 @@ form {
   }
   
   form input[type="submit"]:hover {
-    background-color: #02c6f7;
+    background-color: #029bc2;
   }
   
   form .success-message,
